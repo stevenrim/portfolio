@@ -18,7 +18,7 @@ const createBanner = () : string[] => {
     banner.push(eleToPush);
   });  
   banner.push("<br>");
-  banner.push("Thank you for visiting my portfolio as I chronicle my journey into InfoSec.");
+  banner.push("Thank you for joining me on my journey into InfoSec!");
   banner.push("Type <span class='command'>'help'</span> for a list of all available commands.");
   banner.push(`Type <span class='command'>'repo'</span> to view the GitHub repository or click <a href='${command.repoLink}' target='_blank'>here</a>.`);
   banner.push("<br>");
