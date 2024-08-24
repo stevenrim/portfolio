@@ -8,7 +8,7 @@ const whoamiObj = {
       "also about inspiring you. Whether you're an enthusiast, a budding",
       "cyberwarrior, or a future employer, know that every keystroke, every",
       "byte, and every analysis tells a story. Mine is just beginning and I", 
-      "hope what I share here adds a spark to your own adventure."
+      "hope what I share here adds a spark to your own adventure.",
       "- "
     ],
   ],
