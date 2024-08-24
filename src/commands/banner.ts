@@ -19,9 +19,7 @@ const createBanner = () : string[] => {
   });  
   banner.push("<br>");
   banner.push(
-    "Welcome to My Portfolio v1."
-    "Welcome to My Portfolio v1."
-    "Welcome to My Portfolio v1."
+    "Welcome to My Portfolio v1.Welcome to My Portfolio v1.Welcome to My Portfolio v1.Welcome to My Portfolio v1."
   );
   banner.push("Type <span class='command'>'help'</span> for a list of all available commands.");
   banner.push(`Type <span class='command'>'repo'</span> to view the GitHub repository or click <a href='${command.repoLink}' target='_blank'>here</a>.`);
