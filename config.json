@@ -20,12 +20,22 @@
   "aboutGreeting": "Hi! My name is Steven and I'm an aspiring infosec professional.",
   "projects": [
     [
+      "HackTheBox SOC",
+      "HTB SOC Analyst Pathway",
+      "https://medium.com/@stevenrim/hackthebox-certified-defensive-security-analyst-cdsa-journey-5bb5fbeaa1d7"
+    ],
+    [
+      "TryHackMe SOC",
+      "THM SOC Level 1 Pathway",
+      "https://medium.com/@stevenrim/tryhackme-soc-level-1-pathway-0a420f3983af"
+    ],
+    [
       "Active Directory",
       "Active Directory Home Lab w/VirtualBox",
       "https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f"
     ],
     [
-      "Honeynet",
+      "Honeynet & SOC",
       "Building a Cloud Honeynet in Azure",
       "https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"
     ]
