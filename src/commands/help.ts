@@ -2,15 +2,15 @@ const helpObj = {
   "commands": [
     [
     "'about'",
-    "Who made this website?",
+    "My contact information",
     ],
     [
       "'projects'",
-      "Maybe there's something interesting."
+      "Projects and labs I post on Medium."
     ],
     [
       "'whoami'",
-      "A perplexing question."
+      "A special message for you."
     ],
     ["'sudo'",
       "???"
@@ -20,7 +20,7 @@ const helpObj = {
       "View the Github Repository."
     ],
     ["'banner'",
-      "Display the banner."
+      "Display the banner again."
     ],
     [
       "'clear'",
