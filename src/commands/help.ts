@@ -6,7 +6,7 @@ const helpObj = {
     ],
     [
       "'projects'",
-      "Projects and labs I post on Medium."
+      "My projects and labs published on Medium."
     ],
     [
       "'whoami'",
