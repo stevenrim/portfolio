@@ -13,30 +13,30 @@
   "password": "00000",
   "repoLink": "https://github.com/stevenrim/portfolio",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "stevenrim@proton.me",
+    "github": "stevenrim",
+    "linkedin": "stevenrim"
   },
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "Active Directory",
+      "Active Directory Home Lab w/VirtualBox",
+      "https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "Honeynet",
+      "Building a Cloud Honeynet in Azure",
+      "https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"
     ]
   ],
   "colors": {
     "background": "#0C0623",
     "foreground": "#F8DDE5",
-    "banner": "#FF9951",
+    "banner": "#ffffff",
     "border": {
       "visible": true,
-      "color": "#FFADE2"
+      "color": "#ffffff"
     },
     "prompt": {
       "default": "#A5A7A7",
