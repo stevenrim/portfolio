@@ -58,8 +58,8 @@
     "prompt": {
       "default": "#A5A7A7",
       "user": "#FE6BC9",
-      "host": "#70FDFF",
-      "input": "#FF7685"
+      "host": "#FE6BC9",
+      "input": "#ffffff"
     },
     "link": {
       "text": "#B6AAEE",
