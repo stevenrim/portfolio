@@ -27,11 +27,6 @@
   "aboutGreeting": "Here is my information below.",
   "projects": [
     [
-      "HackTheBox SOC",
-      "HTB SOC Analyst Pathway",
-      "https://medium.com/@stevenrim/hackthebox-certified-defensive-security-analyst-cdsa-journey-5bb5fbeaa1d7"
-    ],
-    [
       "Google Cybersecurity",
       "Google Cybersecurity Certificate",
       "https://coursera.org/share/9518d70309a9cad55ec802db4cdfdf76"
