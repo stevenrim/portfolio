@@ -43,12 +43,17 @@
     ],
     [
       "Active Directory",
-      "Active Directory Home Lab w/VirtualBox",
+      "Active Directory Home Lab w/VirtualBox and PowerShell",
       "https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f"
     ],
     [
       "Honeynet & SOC",
-      "Building a Cloud Honeynet in Azure",
+      "Building a Cloud Honeynet w/Azure",
+      "https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"
+    ],
+    [
+      "Nessus",
+      "Discovering and Remediating Vulnerabilities w/Nessus Essentials",
       "https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"
     ],
     [
@@ -62,13 +67,13 @@
       "https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"
     ],
     [
-      "AD Home Lab",
-      "Building a Active Directory Home Lab",
+      "Active Directory",
+      "Active Directory Home Lab w/Splunk, Kali, and Atomic Red Team",
       "https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"
     ],
     [
       "SOC Automation",
-      "Building a Cloud Honeynet in Azure",
+      "Building SOC Automation w/Wazuh, TheHive, and Shuffle",
       "https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"
     ],
     [
