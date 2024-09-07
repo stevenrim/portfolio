@@ -6,11 +6,11 @@ const helpObj = {
     ],
     [
       "'projects'",
-      "My projects and labs published on Medium."
+      "Have a glimpse into my adventures."
     ],
     [
       "'whoami'",
-      "A special message for you."
+      "A special note for you."
     ],
     ["'sudo'",
       "???"
