@@ -94,8 +94,8 @@
   ],
 "colors": {
   "background": "#000000",
-  "foreground": "#39FF14",  // Neon green for main text
-  "banner": "#39FF14",      // Neon green for ASCII art banner
+  "foreground": "#39FF14",  
+  "banner": "#39FF14",     
   "border": {
     "visible": true,
     "color": "#39FF14"
