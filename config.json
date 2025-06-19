@@ -29,67 +29,67 @@
     [
       "HackTheBox SOC",
       "HTB SOC Analyst Pathway",
-      "https://medium.com/@stevenrim/hackthebox-certified-defensive-security-analyst-cdsa-journey-5bb5fbeaa1d7"
+      ""
     ],
     [
       "TryHackMe SOC",
       "THM SOC Level 1 Pathway",
-      "https://medium.com/@stevenrim/tryhackme-soc-level-1-pathway-0a420f3983af"
+      ""
     ],
     [
       "Juice Shop",
       "Exploiting Web App Vulnerablies on OWASP Juice Shop",
-      "https://medium.com/@stevenrim/owasp-juice-shop-10-2-for-arm64-raspberry-pi-5-68c28c046ccd"
+      ""
     ],
     [
       "Active Directory",
       "Active Directory Home Lab w/VirtualBox and PowerShell",
-      "https://medium.com/@stevenrim/active-directory-home-lab-w-virtualbox-e07932251a9f"
+      ""
     ],
     [
       "Honeynet & SOC",
       "Building a Cloud Honeynet w/Azure",
-      "https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"
+      ""
     ],
     [
       "Nessus Scans",
       "Discovering and Remediating Vulnerabilities w/Nessus Essentials",
-      "https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"
+      ""
     ],
     [
       "SOAR EDR",
       "Automating Security Workflow w/LimaCharlie and Tines",
-      "https://medium.com/@stevenrim/automating-security-workflow-w-limacharlie-and-tines-020ee72ee340"
+      ""
     ],
     [
       "Active Directory",
       "Virtual Attacks and Splunk Insights",
-      "https://medium.com/@stevenrim/virtual-attacks-and-splunk-insights-b892468cbec9"
+      ""
     ],
     [
       "SOC Automation",
       "Building SOC Automation w/Wazuh, TheHive, and Shuffle",
-      "https://medium.com/@stevenrim/building-a-cloud-honeynet-soc-in-azure-980f84fb5147"
+      ""
     ],
     [
       "CompTIA Sec+",
       "SY0-701 Certification Coming Soon...",
-      "https://www.comptia.org/certifications/security"
+      ""
     ],
     [
       "HackTheBox CDSA",
       "Certified Defensive Security Analyst Certification Coming Soon...",
-      "https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst/"
+      ""
     ],
     [
       "Masterclass",
       "Leveld - SOC Analyst Certificate",
-      "https://app.kajabi.com/certificates/72ada0d2"
+      ""
     ],
     [
       "Google/Courserda",
       "Google Cybersecurity Certificate",
-      "https://coursera.org/share/9518d70309a9cad55ec802db4cdfdf76"
+      ""
     ]
   ],
 "colors": {
