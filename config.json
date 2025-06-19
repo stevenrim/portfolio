@@ -98,7 +98,7 @@
   "banner": "#FFFFFF",     
   "border": {
     "visible": true,
-    "color": "#39FF14"
+    "color": "#FFFFFF"
   },
   "prompt": {
     "default": "#39FF14",
