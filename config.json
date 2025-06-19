@@ -92,27 +92,27 @@
       "https://coursera.org/share/9518d70309a9cad55ec802db4cdfdf76"
     ]
   ],
-  "colors": {
-    "background": "#0C0623",
-    "foreground": "#F8DDE5",
-    "banner": "#ffffff",
-    "border": {
-      "visible": true,
-      "color": "#ffffff"
-    },
-    "prompt": {
-      "default": "#A5A7A7",
-      "user": "#FE6BC9",
-      "host": "#FE6BC9",
-      "input": "#ffffff"
-    },
-    "link": {
-      "text": "#B6AAEE",
-      "highlightColor": "#FFADE2",
-      "highlightText": "#0C0623"
-    },
-    "commands": {
-      "textColor": "#FD9BDB"
-    }
+"colors": {
+  "background": "#000000",
+  "foreground": "#39FF14",  // Neon green for main text
+  "banner": "#39FF14",      // Neon green for ASCII art banner
+  "border": {
+    "visible": true,
+    "color": "#39FF14"
+  },
+  "prompt": {
+    "default": "#39FF14",
+    "user": "#39FF14",
+    "host": "#39FF14",
+    "input": "#39FF14"
+  },
+  "link": {
+    "text": "#39FF14",
+    "highlightColor": "#39FF14",
+    "highlightText": "#000000"
+  },
+  "commands": {
+    "textColor": "#39FF14"
   }
+}
 }
