@@ -93,26 +93,26 @@
     ]
   ],
 "colors": {
-  "background": "#000000",
-  "foreground": "#39FF14",  
-  "banner": "#FFFFFF",     
+  "background": "#212121",
+  "foreground": "#41FF00",  
+  "banner": "#41FF00",     
   "border": {
     "visible": true,
-    "color": "#FFFFFF"
+    "color": "#41FF00"
   },
   "prompt": {
-    "default": "#39FF14",
-    "user": "#39FF14",
-    "host": "#39FF14",
-    "input": "#FFFFFF"
+    "default": "#41FF00",
+    "user": "#41FF00",
+    "host": "#41FF00",
+    "input": "#41FF00"
   },
   "link": {
     "text": "#39FF14",
-    "highlightColor": "#39FF14",
-    "highlightText": "#000000"
+    "highlightColor": "#41FF00",
+    "highlightText": "#212121"
   },
   "commands": {
-    "textColor": "#39FF14"
+    "textColor": "#41FF00"
   }
 }
 }
