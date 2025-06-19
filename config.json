@@ -95,7 +95,7 @@
 "colors": {
   "background": "#000000",
   "foreground": "#39FF14",  
-  "banner": "#39FF14",     
+  "banner": "#FFFFFF",     
   "border": {
     "visible": true,
     "color": "#39FF14"
