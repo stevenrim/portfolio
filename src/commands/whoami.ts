@@ -1,14 +1,13 @@
 const whoamiObj = {
   "message" : [
     [
-      "Thank you for taking the time to visit my portfolio as I chronicle",
-      "my journey into InfoSec. Here, you'll find my hands-on labs from",
-      "online platforms like HTB and THM, and ethical projects inspired by", 
-      "amazing security YouTubers. This journey isn't just about me, it's", 
-      "also about inspiring you. Whether you're an enthusiast, a budding",
-      "cyberwarrior, or a future employer, know that every keystroke, every",
-      "byte, and every analysis tells a story. Mine is just beginning and I", 
-      "hope what I share here adds a spark to your own adventure.",
+      "All projects and demonstrations in this portfolio are for educational",
+      "and ethical cybersecurity research only. Every technique and tool was",
+      "used legally within approved environments, adhering to ethical hacking", 
+      "principles, legal regulations, and responsible disclosure practices.", 
+      "Unauthorized use of these methods on systems without explicit permission",
+      "is illegal and strictly discouraged. Always follow legal guidelines and",
+      "obtain proper authorization before conducting security assessments.",
       "- "
     ],
   ],
